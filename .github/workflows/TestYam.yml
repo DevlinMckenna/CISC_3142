@@ -1,0 +1,9 @@
+Name: TestYam
+On: [push]
+Jobs:
+  TestYam:
+    runs-on: IOS-latest
+    steps: 
+      - run: echo "running makefile"
+      - name: make
+      - run: make Lab2  
