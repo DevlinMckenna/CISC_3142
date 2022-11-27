@@ -1,0 +1,32 @@
+raw data is: 
+Jan 39
+Feb 42
+Mar 50
+Apr 60
+May 71
+Jun 79
+Jul 85
+Aug 81
+Sep 76
+ 76
+
+average is: 65.9
+
+moving average for Mar is:  43
+moving average for Apr is:  50
+moving average for May is:  60
+moving average for Jun is:  70
+moving average for Jul is:  78
+moving average for Aug is:  81
+moving average for Sep is:  80
+moving average for  is:  77
+
+
+Weighted moving average for Mar is:  45
+Weighted moving average for Apr is:  53
+Weighted moving average for May is:  63
+Weighted moving average for Jun is:  73
+Weighted moving average for Jul is:  80
+Weighted moving average for Aug is:  82
+Weighted moving average for Sep is:  79
+Weighted moving average for  is:  76
