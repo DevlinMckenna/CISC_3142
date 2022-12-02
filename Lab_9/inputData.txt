@@ -1,4 +1,4 @@
-month,day
+Month,Temp
 Jan,39
 Feb,42
 Mar,50

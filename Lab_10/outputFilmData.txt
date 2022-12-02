@@ -1,0 +1,68 @@
+contents of the first Movie object:
+ 
+the year is: 1990
+length is: 111
+title is: Tie Me Up! Tie Me Down!
+subject is: Comedy
+actor is: Banderas, Antonio
+acress is:Abril, Victoria
+the director is: Almod�var, Pedro
+the popularity is : 68
+the award is: No
+the image is: NicholasCage.png
+
+the accumulated sum of movie lengths is: 9315
+
+ top fifty titles ordered by popularity:
+  
+Gonzo Presents Muppet Weird Stuff
+Duet for One
+Final Notice
+Tartuffe
+Sound of Music, The
+Happy Birthday to Me
+Torn Curtain
+Man Who Loved Women, The
+Hawaii
+Ten
+Ten
+Barbarian & the Geisha, The
+Through a Glass Darkly
+Seventh Seal, The
+Elephant Walk
+Wild Strawberries
+Miles from Home
+Dr. No
+Zandalee
+Predator 2
+Cries & Whispers
+Casino Royale
+Naked Night, The
+Dreams
+Germicide
+Devil's Eye, The
+Quintet
+Colors
+Running Man, The
+Raiders of the Lost Ark
+Scrooged
+Tucker: The Man & His Dream
+Donovan's Reef
+Blackmail
+Lindbergh Kidnapping Case, The
+Official Story, The
+Un Hombre y una Mujer
+A Man & a Woman: Twenty Years Later
+A Man & a Woman
+Tragedy of a Ridiculous Man
+Fanny and Alexander
+Camille Claudel
+Subway
+American Angels: Baptism of Blood, The
+Target Eagle
+Octopussy
+Days of Heaven
+Cuba
+Dead Zone, The
+High Heels
+Devlins-MacBook-Pro:Lab_10 devlinmckenna$ 
